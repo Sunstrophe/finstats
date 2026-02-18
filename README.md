@@ -1,3 +1,3 @@
-Finstats
+# Finstats
 
-# Extract your daily transactions easily and track your expenses
+Extract your daily transactions easily and track your expenses
